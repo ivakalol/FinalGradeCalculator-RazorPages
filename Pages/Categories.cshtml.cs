@@ -29,7 +29,7 @@ namespace FinalGradeCalculatorWeb.Pages
             {
                 finalGrade += category.Grade * category.Weight / 100;
             }
-            return finalGrade.ToString();
+            return Math.Round(finalGrade, 2).ToString();
         }
 
         public IActionResult OnPost()

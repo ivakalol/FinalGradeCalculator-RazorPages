@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalGradeCalculatorWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46d66b156907afce0ea2adfa95c5915ae9571298")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalGradeCalculatorWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalGradeCalculatorWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

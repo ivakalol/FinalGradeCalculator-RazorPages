@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/I4lz8kAK80=",
+  "dgSpecHash": "akL0J8onIeY=",
   "success": true,
-  "projectFilePath": "C:\\Code\\FinalGradeCalculatorWeb\\FinalGradeCalculatorWeb.csproj",
+  "projectFilePath": "C:\\Git Hub\\FinalGradeCalculator-RazorPages\\FinalGradeCalculatorWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivko0\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
     "C:\\Users\\ivko0\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.5\\microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",

@@ -46,3 +46,47 @@ C:\Code\FinalGradeCalculatorWeb\bin\Debug\net8.0\Microsoft.Extensions.Options.dl
 C:\Code\FinalGradeCalculatorWeb\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\Code\FinalGradeCalculatorWeb\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\Code\FinalGradeCalculatorWeb\obj\Debug\net8.0\FinalGra.01021258.Up2Date
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\appsettings.Development.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\appsettings.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.staticwebassets.runtime.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.staticwebassets.endpoints.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.exe
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.deps.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.runtimeconfig.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\FinalGradeCalculatorWeb.pdb
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.csproj.AssemblyReference.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.AssemblyInfoInputs.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.AssemblyInfo.cs
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.csproj.CoreCompileInputs.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.RazorAssemblyInfo.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.RazorAssemblyInfo.cs
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.sourcelink.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\scopedcss\bundle\FinalGradeCalculatorWeb.styles.css
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\scopedcss\projectbundle\FinalGradeCalculatorWeb.bundle.scp.css
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\staticwebassets.build.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\staticwebassets.development.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGra.01021258.Up2Date
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\refint\FinalGradeCalculatorWeb.dll
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.pdb
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\FinalGradeCalculatorWeb.genruntimeconfig.cache
+C:\Git Hub\FinalGradeCalculator-RazorPages\obj\Debug\net8.0\ref\FinalGradeCalculatorWeb.dll

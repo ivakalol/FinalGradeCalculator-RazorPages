@@ -4,11 +4,11 @@
 @{
 }
 
-<div class="container">
+<div class="categories-section">
 
     <h1>Categories</h1>
 
-    <form method="post" class="categories-form">
+    <form method="post" class="categories-form" autocomplete="off">
         <div class="form-row">
             <label for="name">Name</label>
             <input type="text" name="name" id="name" placeholder="e.g. Midterm" required />
@@ -22,33 +22,36 @@
             <input type="number" name="weight" id="weight" min="0" max="100" step="0.01" placeholder="e.g. 30" required />
         </div>
         <div class="form-actions">
-            <button type="submit">Submit</button>
-            <button type="reset" class="secondary">Clear</button>
+            <button type="submit">Add Category</button>
+            <button type="reset">Clear</button>
         </div>
-
-        <table class="table">
-            <thead>
-                <tr>
-                    <th>ID</th>
-                    <th>Name</th>
-                    <th>Grade</th>
-                    <th>Weight</th>
-                </tr>
-            </thead>
-            <tbody>
-                @foreach (Category category in Model.Categories)
-                {
-                    <tr>
-                        <td>@category.Id</td>
-                        <td>@category.Name</td>
-                        <td>@category.Grade</td>
-                        <td>@category.Weight</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
     </form>
 
-    <h2 class="FinalGradeHeader">Final Grade: </h2>
-    <p class="FinalGradeDisplay">@Model.GetFinalGrade()</p>
+    <table class="categories-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Grade</th>
+                <th>Weight</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model.Categories)
+            {
+                <tr>
+                    <td>@category.Id</td>
+                    <td>@category.Name</td>
+                    <td>@category.Grade</td>
+                    <td>@category.Weight</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- FINAL GRADE IS NOW INSIDE THE MAIN CONTENT CARD -->
+    <div class="final-grade-section">
+        <span class="final-grade-header">Final Grade:</span>
+        <span class="final-grade-score">@Model.GetFinalGrade()</span>
+    </div>
 </div>
