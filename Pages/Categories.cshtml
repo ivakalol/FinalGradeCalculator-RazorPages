@@ -1,0 +1,54 @@
+﻿@page
+@using FinalGradeCalculatorWeb.Models
+@model FinalGradeCalculatorWeb.Pages.CategoriesModel
+@{
+}
+
+<div class="container">
+
+    <h1>Categories</h1>
+
+    <form method="post" class="categories-form">
+        <div class="form-row">
+            <label for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="e.g. Midterm" required />
+        </div>
+        <div class="form-row">
+            <label for="grade">Grade (%)</label>
+            <input type="number" name="grade" id="grade" min="0" max="100" step="0.01" placeholder="e.g. 85" required />
+        </div>
+        <div class="form-row">
+            <label for="weight">Weight (%)</label>
+            <input type="number" name="weight" id="weight" min="0" max="100" step="0.01" placeholder="e.g. 30" required />
+        </div>
+        <div class="form-actions">
+            <button type="submit">Submit</button>
+            <button type="reset" class="secondary">Clear</button>
+        </div>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                    <th>Weight</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Category category in Model.Categories)
+                {
+                    <tr>
+                        <td>@category.Id</td>
+                        <td>@category.Name</td>
+                        <td>@category.Grade</td>
+                        <td>@category.Weight</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+
+    <h2 class="FinalGradeHeader">Final Grade: </h2>
+    <p class="FinalGradeDisplay">@Model.GetFinalGrade()</p>
+</div>

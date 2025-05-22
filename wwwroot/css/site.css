@@ -1,0 +1,146 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: #f4f7fb;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #2d3a4b;
+    margin-top: 40px;
+    margin-bottom: 32px;
+    letter-spacing: 1px;
+}
+
+form {
+    background: #fff;
+    max-width: 650px;
+    margin: 0 auto 40px auto;
+    padding: 32px 32px 24px 32px;
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(44, 62, 80, 0.11);
+}
+
+
+input {
+    width: 160px;
+    padding: 8px 10px;
+    margin-right: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #bfc9d9;
+    border-radius: 16px;
+    font-size: 1rem;
+    transition: border-color 0.2s;
+    outline: none;
+}
+
+    input[type="text"]:focus,
+    input[type="number"]:focus {
+        border-color: #5d8ef5;
+    }
+
+button[type="submit"], button[type="reset"] {
+    padding: 8px 18px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    background: #5d8ef5;
+    color: #fff;
+    margin-right: 10px;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+button[type="reset"] {
+    background: #d9534f;
+}
+
+button[type="submit"]:hover {
+    background: #4073d3;
+}
+
+button[type="reset"]:hover {
+    background: #a94442;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+    background: #f8fafd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(44, 62, 80, 0.07);
+}
+
+    .table th, .table td {
+        padding: 14px 10px;
+        text-align: center;
+    }
+
+    .table thead {
+        background: #eef1f7;
+    }
+
+    .table th {
+        color: #365175;
+        font-size: 1.07rem;
+        font-weight: 600;
+        border-bottom: 2px solid #dde6ef;
+    }
+
+    .table tbody tr {
+        border-bottom: 1px solid #e6eaf3;
+        transition: background 0.12s;
+    }
+
+        .table tbody tr:hover {
+            background: #f1f6ff;
+        }
+
+    .table td {
+        color: #2d3a4b;
+        font-size: 1rem;
+    }
+
+
+.FinalGradeHeader {
+    text-align: right;
+    color: #4b6387;
+    font-size: 1.25rem;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+.FinalGradeDisplay {
+    text-align: right;
+    font-size: 2rem;
+    color: #5d8ef5;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+@media (max-width: 700px) {
+    form {
+        padding: 16px 6px;
+    }
+
+    .table th, .table td {
+        padding: 9px 4px;
+        font-size: 0.97rem;
+    }
+
+    input[type="text"], input[type="number"] {
+        width: 100px;
+    }
+}
